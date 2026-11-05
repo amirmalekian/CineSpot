@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/sikozonpc/cinema/internal/adapters/redis"
-	"github.com/sikozonpc/cinema/internal/booking"
-	"github.com/sikozonpc/cinema/internal/utils"
+	"github.com/amirmalekian/cinema/internal/adapters/redis"
+	"github.com/amirmalekian/cinema/internal/booking"
+	"github.com/amirmalekian/cinema/internal/utils"
 )
 
 func main() {

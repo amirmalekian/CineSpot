@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/sikozonpc/cinema/internal/adapters/redis"
+	"github.com/amirmalekian/cinema/internal/adapters/redis"
 )
 
 func TestConcurrentBooking_ExactlyOneWins(t *testing.T) {

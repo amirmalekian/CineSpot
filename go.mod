@@ -1,4 +1,4 @@
-module github.com/sikozonpc/cinema
+module github.com/amirmalekian/cinema
 
 go 1.25.3
 
